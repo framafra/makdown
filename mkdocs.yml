@@ -1,0 +1,7 @@
+site_name: Mi primera ASIX
+site_description: Esto es una web de prueba
+theme:
+     name: mkdocs
+nav:
+     - indice: index.md
+     - indice2: index2.md
