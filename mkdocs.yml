@@ -1,5 +1,7 @@
 site_name: Mi primera ASIX
 site_description: Esto es una web de prueba
+docs_dir: md
+site_dir: docs
 theme:
      name: mkdocs
 nav:
